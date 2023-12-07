@@ -59,6 +59,17 @@ Progress:
         - Link: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
         - Link to website providing step-by-step for implementing Dijkstra's algorithm in java: https://www.baeldung.com/java-dijkstra
 
- 
+DAY 4 - 12/6/23
+Eva
+7:00 PM - 7:30 PM
+Progress:
+ - Recieved feedback from TAs about using Dijkstra's algorithm on our dataset without given real-world information on distance
+ - Determined best course of action was to make the distance betweeen the nodes (the 'cost') a variable and make that essentially the distance
+
+Eva & Musa
+9:30 PM -
+Progress:
+ - Approached completing implementing programming for Dijkstra's algorithm for our dataset
+
 Reflection:
 
