@@ -2,7 +2,7 @@
 
 ___YES__ 2 pts: Dataset is selected and fully described in `data_description.txt`
 
-_____ 2 pts: Journal includes at least one entry per phase and describes the design decisions made and reasons for making them
+___PART__ 2 pts: Journal includes at least one entry per phase and describes the design decisions made and reasons for making them
 
 ___YES__ 2 pts: The program reads the data in and stores them in the form of a graph
 

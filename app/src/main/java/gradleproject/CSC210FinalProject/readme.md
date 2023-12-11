@@ -67,9 +67,34 @@ Progress:
  - Determined best course of action was to make the distance betweeen the nodes (the 'cost') a variable and make that essentially the distance
 
 Eva & Musa
-9:30 PM -
+9:30 PM - 11:30 PM
 Progress:
  - Approached completing implementing programming for Dijkstra's algorithm for our dataset
+
+ DAY 5 - 12/7/23
+ Eva & Musa
+ 7:00 PM - 10:30 PM
+ Progress:
+ - Nearly completed implementing programming for Dijkstra's algorithm; isn't displaying distances properly
+      - Stuck on initial for loop for adjacent edges, suspect this part might be breaking it
+ - Referred to YouTube video for implementation of algorithm (programmer programmed in Python, we translated to Java)
+      - https://www.youtube.com/watch?v=XEb7_z5dG3c
+
+DAY 6 - 12/8/23
+Musa
+2:10 PM - 4:00PM 
+Progress:
+   - Finished implementing Djikstra's Algorithm. 
+
+DAY 7 - 12/10/23
+Eva & Musa
+7:00 PM - 9:00 PM
+Progress:
+ - Wrote Javadocs for all methods and classes in ReadFile file
+ - Discussed ideas for implementing a path for the minimum distances between nodes (what you get from the Djikstra's algorithm method)
+Questions:
+ - Knowing the minumum distance from one node to another, how do you map a path for that distance using our dataset?
+
 
 Reflection:
 
